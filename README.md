@@ -72,8 +72,8 @@ My goal is to continuously improve my skills in **Data Analytics and Data Scienc
 
 ## 🤝 Connect With Me
 
-💻 **GitHub:** [Keerthi Sri Pedapudi](https://github.com/)
-📊 **Linkedin:** [Keerthi Sri Pedapudi](https://www.linkedin.com/in/keerthi-sri-pedapudi)
+*💻 **GitHub:** [Keerthi Sri Pedapudi](https://github.com/)
+*📊 **Linkedin:** [Keerthi Sri Pedapudi](https://www.linkedin.com/in/keerthi-sri-pedapudi)
 
 I'm always interested in connecting with people who are passionate about **Data Analytics, Data Science, Machine Learning, and Technology**.
 
