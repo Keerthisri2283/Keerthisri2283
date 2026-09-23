@@ -1,81 +1,68 @@
 # Hi, I'm Keerthi Sri Pedapudi 👋
 
-### 🎓 B.Tech CSE Graduate | 📊 Aspiring Data Analyst | 🤖 Data Science Enthusiast
-
-I'm a **B.Tech graduate in Computer Science and Engineering (CSE)** with a strong interest in **Data Analytics and Data Science**.
-
-I have learned various tools and technologies related to **data analysis** and enjoy working with data to discover insights, identify patterns, and solve real-world problems.
-
-I'm currently focused on developing my skills in **Data Science, Machine Learning, and Artificial Intelligence** through continuous learning and practical projects.
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE_Graduate-blue?style=for-the-badge)
+![Data Analyst](https://img.shields.io/badge/Aspiring-Data_Analyst-orange?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data_Science-Enthusiast-green?style=for-the-badge)
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Completed **B.Tech in Computer Science and Engineering**
-* 📊 Interested in **Data Analytics**
-* 🤖 Passionate about **Data Science & Machine Learning**
-* 📈 Interested in analyzing data and finding meaningful insights
-* 🚀 Continuously learning and improving my technical skills
-* 💡 Interested in working on real-world, data-driven projects
+🎓 B.Tech CSE grad passionate about turning data into decisions.
+📊 Skilled in **Python, SQL & Power BI** for analysis and visualization.
+🚀 Building real-world projects in **Data Analytics & Machine Learning**.
+🌱 Currently leveling up in **Data Science & AI**.
+
+> *"Turning data into insights, and insights into impact."*
 
 ---
 
 ## 🛠️ Skills
 
-### Programming & Data Analysis
+**Programming & Data Analysis**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-* 🐍 Python
-* 🗄️ SQL
-* 📊 Excel
-* 🐼 Pandas
-* 🔢 NumPy
-* 📉 Matplotlib
-* 📊 Seaborn
+**Data Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Data Visualization
-
-* 📊 Power BI
-* 📈 Excel Dashboards
-* 📊 Data Visualization & Reporting
-
-### Currently Exploring
-
-* 🔬 Data Science
-* 🤖 Machine Learning
-* 📐 Statistics
-* 🧠 Artificial Intelligence
+**Currently Exploring**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📂 Projects
 
-I'm interested in building projects related to:
+Interested in building and showcasing work in:
 
-* 📊 Data Analysis
-* 📈 Business Intelligence & Dashboards
+* 📊 Data Analysis & Business Intelligence Dashboards
 * 🧹 Data Cleaning & Exploratory Data Analysis
 * 🤖 Machine Learning
-* 🔍 Data Science
 
-You can explore my GitHub repositories to see my projects and learning journey.
+Check out my pinned repositories below for hands-on project work 👇
 
 ---
 
-## 📚 My Learning Journey
+## 📊 GitHub Stats
 
-My goal is to continuously improve my skills in **Data Analytics and Data Science** by working with real-world datasets, building practical projects, and learning new technologies.
+![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-> **"Turning data into insights and insights into meaningful solutions."**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
 
 ---
 
 ## 🤝 Connect With Me
 
-💻 **GitHub:** [Keerthi Sri Pedapudi](https://github.com/)
-
-📊 **Linkedin:** [Keerthi Sri Pedapudi](https://www.linkedin.com/in/keerthi-sri-pedapudi)
-
-I'm always interested in connecting with people who are passionate about **Data Analytics, Data Science, Machine Learning, and Technology**.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthi-sri-pedapudi)
 
 ⭐ Feel free to explore my repositories and follow my journey!
