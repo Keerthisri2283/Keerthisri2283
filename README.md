@@ -50,15 +50,6 @@ Check out my pinned repositories below for hands-on project work 👇
 
 ---
 
-## 📊 GitHub Stats
-
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-
----
 
 ## 🤝 Connect With Me
 
